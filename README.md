@@ -1,2 +1,2 @@
 # izolab
-my first project 
+izo project 
