@@ -1,2 +1,2 @@
-Autors Denis Tregubov, Fedor Lozitsky.
+Autors Denis Tregubov, Fedor Lozitsky.\n
 Its all programs for our project.
