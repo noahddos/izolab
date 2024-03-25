@@ -1,1 +1,1 @@
-Its die with arduino program on an installation for isoprocesses.
+Its die with arduino program to install for iso processes.
