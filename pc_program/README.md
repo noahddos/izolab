@@ -1,1 +1,1 @@
-Its dir with PC program to install for iso processes.
+Its dir with PC program to install for izoprocesses.
